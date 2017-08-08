@@ -1,0 +1,121 @@
+﻿.fnt_w{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+}
+
+.fnt_logout{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+text-decoration:none;
+}
+
+.fnt_logout:hover{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#CCCCCC;
+text-decoration:none;
+}
+
+.fnt_nml{
+ font-family:Calibri, Arial;
+ font-size:13px;
+ color:#4d4d4d;
+}
+
+.fnt_val{
+    font-family:Calibri, Arial;
+	font-size:12px;
+	color:#FF0000;
+}
+
+
+.fnt_link{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#000000;
+text-decoration:underline;
+}
+
+.fnt_link:hover{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#333333;
+text-decoration:underline;
+}
+
+.fnt_b_12{
+font-family:Calibri, Arial;
+font-size:13px;
+color:#4d4d4d;
+}
+
+.fnt_r_11{
+font-size:11px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FF0000;
+}
+.fntAdmin
+{
+font-family:Calibri, Helvetica, sans-serif;
+font-size:32px;
+color:#130d0f;
+font-weight:normal;
+text-decoration:none;
+text-shadow:0px 2px 2px #474742;
+}
+.fntAdmin_1
+{
+font-family:Calibri, Helvetica, sans-serif;
+font-size:22px;
+color:#130d0f;
+font-weight:normal;
+text-decoration:none;
+text-shadow:0px 1px 1px #000000;
+}
+.fntHeading
+{
+font-family:Calibri, Helvetica, sans-serif;
+font-size:16px;
+color:#555555;
+font-weight:bold;
+text-decoration:none;
+line-height:2;
+}
+
+
+/*-----------Start Umesh--------------------*/
+#fnt_inactive
+{
+font-family:Calibri, Helvetica, sans-serif;
+font-size:14px;
+color:#d41922;
+}
+#fnt_inactive_11
+{
+font-family:Calibri, Helvetica, sans-serif;
+font-size:14px;
+color:#a29515;
+}
+.fnt_plan{
+font-size:12px;
+font-family:Arial, Helvetica, sans-serif;
+color:#000000;
+}
+.fnt_nml_12{
+ font-family:Calibri, Arial;
+ font-size:15px;
+ color:#4d4d4d;
+}
+.fnt_nml_14{
+ font-family:Calibri, Arial;
+ font-size:15px;
+ color:#4d4d4d;
+}
+.fnt_nml_16{
+ font-family:Calibri, Arial;
+ font-size:15px;
+ color:#4d4d4d;
+}
+/*-----------End Umesh--------------------*/

@@ -1,0 +1,10 @@
+127.0.0.1 - - [26/Apr/2017:23:45:57 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:45:58 +0530] "GET /OnlineExam/index.jsp HTTP/1.1" 200 3212
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:45:58 +0530] "GET /OnlineExam/style_home.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:45:59 +0530] "GET /OnlineExam/images/logo1.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:45:59 +0530] "GET /OnlineExam/images/images%20(2).jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:45:59 +0530] "GET /OnlineExam/images/img01.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:45:59 +0530] "GET /OnlineExam/images/backimage.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:46:16 +0530] "GET /OnlineExam/adm_log.jsp HTTP/1.1" 200 2969
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:46:51 +0530] "GET /OnlineExam/adm_log.jsp HTTP/1.1" 200 2969
+0:0:0:0:0:0:0:1 - - [26/Apr/2017:23:46:51 +0530] "GET /favicon.ico HTTP/1.1" 404 973

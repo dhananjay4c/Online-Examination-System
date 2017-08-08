@@ -1,0 +1,11 @@
+#Tue Aug 08 12:32:24 IST 2017
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1502175744382
+c=0
+cmp=usage
+a=finishWizard
+cl=org.jboss.tools.common.model.ui.editors.dnd.DropWizard
+v=2.0.2
+s=0

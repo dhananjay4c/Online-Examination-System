@@ -1,0 +1,268 @@
+*
+{	padding:0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.main2
+{
+    height:auto;
+    width:980px;
+    float:left;
+    background-color:#ffffff;
+}
+
+body
+{
+    
+    margin:0; 
+    padding:0;
+   /*  background-color:#cbdaec; */
+    background-repeat:repeat;
+    font-size:65%;
+}
+
+
+#top
+{
+	width:100%;
+	height:15px;
+	float:left;
+	background-color:#000;
+	padding-top: 2px;
+	
+}
+.login
+{ width:1000px;
+height:auto;
+margin:0 auto;
+
+}
+.login-sitemap
+{
+	width:280px;
+	height:auto;
+	float:right;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	color:#FFF;
+	text-align:right;
+	padding-right:10px;
+}
+.login-sitemap a
+{ text-decoration:none;
+		color:#FFF;
+}
+.login-sitemap a:hover
+{ text-decoration:underline;
+		color: #FC0;
+}
+#wraper {width:1000px;
+height:auto;
+min-height:400px;
+margin:0 auto;
+height:auto;
+
+background-image:url(../images/shad.jpg);
+    background-repeat:repeat-y;
+
+}
+
+#header
+{
+	width:1000px;
+	height:92px;
+	margin:0 auto;
+	background-image:url(../images/shad.jpg);
+    background-repeat:repeat-y;
+}
+h1
+{
+	width:245px;
+	height:82px;
+	float:left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.techinical-support1
+{	width:236px;
+	height:40px;
+	float:right;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+	font-size: 14px;
+	margin-top: 20px;
+	padding-top: 10px;
+}
+.sales-phone
+{	width:42px;
+	height:35px;
+	float:left;
+	margin-top:0px;
+	}
+#menu
+{
+	width:982px;
+	height:36px;
+	float:left;
+	background-image:url(../images/menu.jpg);
+	background-repeat:repeat-x;
+	z-index:999;
+	margin-left:9px;
+	
+}
+
+
+
+#footer {
+	width:100%;
+	float:left;
+	height:45px;
+	margin-top: 0px;
+	border-radius:0px 0px 10px 10px;
+	
+	
+}
+
+#footer-inner {
+	width:990px;
+	height:30px;
+	margin:0 auto;
+	background-image:url(../images/footer.jpg);
+	background-repeat:no-repeat;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color: #FFF;
+	padding-top: 16px;
+	font-weight: bold;
+	padding-left: 10px;
+	border-radius:0px 0px 10px 10px;
+	
+}
+#footer-inner a { text-decoration:none;
+	color: #4c4c4c;
+}
+
+#footer-inner a:hover { text-decoration:none;
+	color: #C03;
+}
+#footer-shadow {
+	width:100%;
+	float:left;
+	height:40px;
+	
+}
+
+#footer--shadow-inner {
+	width:1000px;
+	height:10px;
+	margin:0 auto;
+	background-repeat:no-repeat;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+    
+}
+
+.middle-shadow {
+	width:1000px;
+	height:58px;
+	margin:0 auto;
+	background-repeat:no-repeat;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#4c4c4c;
+ 
+}
+.middle-shadow a { text-decoration:none;
+color:#4c4c4c;
+}
+.middle-shadow a:hover { text-decoration:underline;
+color: #000000;
+}
+
+/*------------------------------------*/
+.Content{
+	width:928px;
+	height:auto;
+	float:left;
+	height: expression( this.scrollHeight < 201 ? "200px" : "auto" );
+	margin-bottom:20px;
+	margin-top:20px;
+	margin-left:20px;
+	border: #C4c4c4 solid 1px;
+	border-radius:8px;
+	padding:5px;
+}
+.GridContent{
+	width:948px;
+	height:auto;
+	float:left;
+	height: expression( this.scrollHeight < 301 ? "300px" : "auto" );
+	border: #C4c4c4 solid 1px;
+	border-radius:8px;
+	padding:5px;
+	margin-left:20px;
+	margin-bottom:20px;
+}
+/*---------------------------------------------*/
+.proview
+{
+    width:948px;
+	height:auto;
+	float:left;
+	font-family:Calibri, Arial;
+    font-size:13px;
+    color:#4d4d4d;
+    padding-bottom:20px;
+    padding-top:20px;    
+    border-bottom:dotted 1px #c4c4c4;
+}
+.proview_l
+{
+    width:250px;
+	height:auto;
+	float:left;
+	margin-left:100px;
+}
+.proview_m
+{
+    width:50px;
+	min-height:100px;
+	float:left;
+}
+
+.proview_r
+{
+    width:468px;
+	height:auto;
+	float:left;
+	
+}
+.inactive_12
+{
+ width:938px;
+ height:38px;
+ float:left;
+ padding:20px;   
+ background-color:#f7f8a1;
+ border:solid 1px #d41849;
+ margin-top:30px;
+ margin-left:10px;
+}
+.inactive12
+{
+ width:38px;
+ height:38px;
+ float:left;
+}
+.inactive22
+{
+ width:900px;
+ height:38px;
+ float:right;
+ 
+}
+
+

@@ -1,0 +1,240 @@
+﻿.txtbox{
+   /* width:197px;
+	height:20px;
+	float:left;
+	padding-left:3px;
+	border:none;		
+	font-family:Calibri, Arial;
+	font-size:13px;
+	color:#858383;*/
+	padding: 6px;
+    width: 250px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color:White;
+    border: 1px solid #C6CDD7;
+    outline-color: #8BCCE0;
+    display: inline-block;
+    margin: 0px;
+    -moz-box-shadow: inset 1px 1px 2px #edeff1;
+    -webkit-box-shadow: inset 1px 1px 2px #edeff1;
+    box-shadow: inset 1px 1px 2px #edeff1;
+    color: #858383;
+	padding-left:10px;
+	font-family:Calibri, Arial;
+	font-size:13px;
+}
+
+.selectbox{
+    /*width:203px;
+	height:24px;
+	float:left;
+	border:none;
+	font-family:Calibri, Arial;
+	font-size:13px;
+	color:#858383;*/
+	padding: 5px;
+    width: 268px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color:White;
+    border: 1px solid #C6CDD7;
+    outline-color: #8BCCE0;
+    display: inline-block;
+    margin: 0px;
+    -moz-box-shadow: inset 1px 1px 2px #edeff1;
+    -webkit-box-shadow: inset 1px 1px 2px #edeff1;
+    box-shadow: inset 1px 1px 2px #edeff1;
+    color: #858383;
+    font-family:Calibri, Arial;
+	font-size:13px;
+}
+.txtarea{
+    padding: 6px;
+    width: 250px;
+    height:60px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color:White;
+    border: 1px solid #C6CDD7;
+    outline-color: #8BCCE0;
+    display: inline-block;
+    margin: 0px;
+    -moz-box-shadow: inset 1px 1px 2px #edeff1;
+    -webkit-box-shadow: inset 1px 1px 2px #edeff1;
+    box-shadow: inset 1px 1px 2px #edeff1;
+    color: #858383;
+	padding-left:10px;
+	font-family:Calibri, Arial;
+	font-size:13px;
+}
+.txtLogin{
+    width:220px;
+	height:20px;
+	float:left;
+	padding-left:3px;
+	border:#e0e0e0 1px solid;
+	font-family:Calibri, Arial;
+	font-size:13px;
+	color:#858383;
+}
+.txtgrid
+{
+    font-family:Calibri, Arial;
+	font-size:13px;
+	padding:5px;
+	background:#ffffff;
+}
+.txtbox-v{
+   /* width:197px;
+	height:20px;
+	float:left;
+	padding-left:3px;
+	border:none;		
+	font-family:Calibri, Arial;
+	font-size:13px;
+	color:#858383;*/
+	padding: 6px;
+    width: 250px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color:White;
+    border: 1px solid #fa7373;
+    outline-color: #8BCCE0;
+    display: inline-block;
+    margin: 0px;
+    -moz-box-shadow: inset 1px 1px 2px #edeff1;
+    -webkit-box-shadow: inset 1px 1px 2px #edeff1;
+    box-shadow: inset 1px 1px 2px #edeff1;
+    color: #858383;
+	padding-left:10px;
+	font-family:Calibri, Arial;
+	font-size:13px;
+}
+.selectbox-v{
+    /*width:203px;
+	height:24px;
+	float:left;
+	border:none;
+	font-family:Calibri, Arial;
+	font-size:13px;
+	color:#858383;*/
+	padding: 5px;
+    width: 268px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color:White;
+    border: 1px solid #fa7373;
+    outline-color: #8BCCE0;
+    display: inline-block;
+    margin: 0px;
+    -moz-box-shadow: inset 1px 1px 2px #edeff1;
+    -webkit-box-shadow: inset 1px 1px 2px #edeff1;
+    box-shadow: inset 1px 1px 2px #edeff1;
+    color: #858383;
+    font-family:Calibri, Arial;
+	font-size:13px;
+}
+.txtarea-v{
+    padding: 6px;
+    width: 250px;
+    height:60px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color:White;
+    border: 1px solid #fa7373;
+    outline-color: #8BCCE0;
+    display: inline-block;
+    margin: 0px;
+    -moz-box-shadow: inset 1px 1px 2px #edeff1;
+    -webkit-box-shadow: inset 1px 1px 2px #edeff1;
+    box-shadow: inset 1px 1px 2px #edeff1;
+    color: #858383;
+	padding-left:10px;
+	font-family:Calibri, Arial;
+	font-size:13px;
+}
+.validator_callout 
+{
+     
+}  
+.validator_callout .ajax__validatorcallout_icon_cell
+{
+     padding: 0;
+     height: 28px;
+     
+}
+.validator_callout .ajax__validatorcallout_icon_cell img
+{
+     display: none;
+}
+.validator_callout div, .validator_callout td
+{
+     background-color: #9ff7f2;
+     border:solid 1px #08cfc3;
+     
+}
+.validator_callout .ajax__validatorcallout_close_button_cell img
+{
+     display: none;
+}
+.validator_callout .ajax__validatorcallout_error_message_cell
+{
+    color:#333333;
+    font-family:Calibri, Arial;
+    font-size:12px;
+}
+.cssClass1
+{
+    color:#f51f38;
+    font-family:Calibri, Arial;
+    font-size:13px;
+}
+.cssClass2
+{
+    color:#2461d1;
+    font-family:Calibri, Arial;
+    font-size:13px;
+}
+.cssClass3
+{
+    color:#fd8f01;
+    font-family:Calibri, Arial;
+    font-size:13px;
+}
+.cssClass4
+{
+    color:#12b7b9;
+    font-family:Calibri, Arial;
+    font-size:13px;
+}
+.cssClass5
+{
+    color:#0b6f06;
+    font-family:Calibri, Arial;
+    font-size:13px;
+}
